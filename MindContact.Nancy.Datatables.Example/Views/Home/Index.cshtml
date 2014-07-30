@@ -1,0 +1,6 @@
+﻿@inherits Nancy.ViewEngines.Razor.NancyRazorViewBase<dynamic>
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+
+@Html.Partial("Shared/DataTable", Model.DataTableVm)

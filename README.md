@@ -1,6 +1,7 @@
 forked from mcintyre321/mvc.jquery.datatables
 
-Test conversion of the project to the Nancy framework
+Attempt to convert mcintyre321's project to Nancy Framework
+
 ----------------------------------
 
 turn IQueryables into datagrids
